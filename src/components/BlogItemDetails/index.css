@@ -1,0 +1,40 @@
+.item-details-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.item-inside-container {
+  margin: 15px;
+}
+
+.avatar-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.avatar-round-container {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+.avatar-image {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+.banner-image {
+  width: 100%;
+}
+
+.heading {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: roboto;
+  text-align: center;
+}
+.sub-heading {
+  font-size: 16px;
+  font-weight: 300;
+  font-family: roboto;
+}
